@@ -44,7 +44,20 @@
 - **Phone系列函数**
     - [Phone](?file=001-UTE基本命令/014-Phone系列函数/01-Phone "Phone")
 - **Player系列函数**
-    - **LV操作命令**
-    - **玩家属性操作命令**
     - [基础命令](?file=001-UTE基本命令/015-Player系列函数/01-基础命令 "基础命令")
+    - [玩家属性操作命令](?file=001-UTE基本命令/015-Player系列函数/02-玩家属性操作命令 "玩家属性操作命令")
+    - [LV操作命令](?file=001-UTE基本命令/015-Player系列函数/03-LV操作命令 "LV操作命令")
 - [其他命令](?file=001-UTE基本命令/016-其他命令 "其他命令")
+
+##### AU小游戏（为了防止无聊）
+- [sans模拟器](?file=002-AU小游戏（为了防止无聊）/01-sans模拟器 "sans模拟器")
+- [柯罗诺斯战](?file=002-AU小游戏（为了防止无聊）/02-柯罗诺斯战 "柯罗诺斯战")
+
+##### Gamemaker帮助文档
+- [Gamemaker Studio2帮助文档](?file=003-Gamemaker帮助文档/01-Gamemaker Studio2帮助文档 "Gamemaker Studio2帮助文档")
+- [关于GMS2登录账号总是卡死的问题](?file=003-Gamemaker帮助文档/02-关于GMS2登录账号总是卡死的问题 "关于GMS2登录账号总是卡死的问题")
+- [Shader编写规范](?file=003-Gamemaker帮助文档/03-Shader编写规范 "Shader编写规范")
+
+##### LUOYU2331的作品导航
+- [Undertale Engine Wiki](?file=004-LUOYU2331的作品导航/01-Undertale Engine Wiki "Undertale Engine Wiki")
+- [LULY服务器](?file=004-LUOYU2331的作品导航/02-LULY服务器 "LULY服务器")
